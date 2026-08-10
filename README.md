@@ -7,7 +7,6 @@ I'm currently developing my skills in **software engineering, AI/ML, and full-st
 ## What I'm Working On
 
 - Building AI-powered applications
-- Strengthening my Python and software engineering fundamentals
 - Exploring responsible and sustainable AI
 - Developing projects that solve real user problems
 
@@ -24,10 +23,11 @@ I'm currently developing my skills in **software engineering, AI/ML, and full-st
 ### AquaAI
 A Chrome extension that explores the environmental impact of AI usage and encourages more sustainable AI interactions.
 
-### Artifex
-A project focused on accessibility and AI-powered technology.
+### AccessiScan
+
+An accessibility-focused project designed to help identify and improve usability barriers in digital experiences.
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- LinkedIn: https://www.linkedin.com/in/asmita-dulla/
+- Email: asmitadulla@gmail.com

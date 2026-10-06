@@ -1,4 +1,4 @@
-# Hi, I'm Asmita 👋
+# Hi, I'm Asmita!
 
 I'm an aspiring **AI Software Engineer** interested in building thoughtful, user-centered AI products.
 
